@@ -2,7 +2,7 @@ arch:
   - arm64
 
 env:
-  - IMGNAME=bradmorg/ubuntu:dbot
+  - IMGNAME=yimlingloo/ubuntu:dbot
 
 services:
   - docker
